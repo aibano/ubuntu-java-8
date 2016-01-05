@@ -1,5 +1,5 @@
 #
-# WSO2 ESB 4.9.0
+# Ubuntu 15.04 with Oracle Java 8
 #
 FROM ubuntu:15.04
 MAINTAINER Osama Alaiban
